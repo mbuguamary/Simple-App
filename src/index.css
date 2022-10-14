@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+table, th, td {
+  padding: 10px;
+  }
+  input {
+    width: 25% !important;
+    margin-right: 0.25em!important;
+    margin-left: 0.25em!important;
+  }
