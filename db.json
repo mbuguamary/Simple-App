@@ -13,6 +13,13 @@
       "category": "Income",
       "amount": "40000",
       "id": 2
+    },
+    {
+      "date": "2022-10-15",
+      "description": "electricity bill",
+      "category": "expense",
+      "amount": "200000",
+      "id": 3
     }
   ]
 }
